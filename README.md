@@ -9,7 +9,6 @@
 [IDENTIFICATION]
 codename          = "vastien"
 occupation        = "GG‑0132"
-pronouns          = "she/her"
 
 
 [SKILLSET]
